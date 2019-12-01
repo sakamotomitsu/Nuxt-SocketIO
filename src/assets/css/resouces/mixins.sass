@@ -1,0 +1,18 @@
+$bp-sp: 320px
+$bp-tb: 768px
+$bp-pc: 1024px
+// spサイズ以降の幅の設定
+@mixin sp
+  @media only screen and (min-width: $bp-sp) and (max-width: 767px)
+    @content
+
+// tbサイズ以降の幅の設定
+@mixin tb
+  @media only screen and (min-width: $bp-tb)
+    @content
+
+// pcサイズ以降の設定
+@mixin pc
+  @media only screen and (min-width: $bp-pc)
+    @content
+
