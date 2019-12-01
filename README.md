@@ -1,14 +1,15 @@
+#Nuxt-SocketIO
+
 ## commands
 ​
 ​
-| command | attachment             |
-|---------|------------------------|
-| dev     | ローカル開発環境を提供 |
-| build   | 本番環境向けに構成     |
-| start   | 本番環境の開始         |
-|---------|------------------------|
 
-​
+| command | attachment |
+|:---|:---|
+|dev |ローカル開発環境を提供 |
+|build |本番環境向けに構 |
+|start |本番環境の開始 |
+
 ​
 ## directory structure
 ​
