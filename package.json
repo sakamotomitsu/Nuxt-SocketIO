@@ -19,6 +19,7 @@
     "nuxt-property-decorator": "^2.5.0",
     "redirect-ssl": "^1.4.1",
     "reset.css": "^2.0.2",
+    "serialize-javascript": "^2.1.1",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0"
   },
