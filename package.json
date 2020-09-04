@@ -38,7 +38,7 @@
     "eslint": "^6.7.0",
     "eslint-config-typescript": "^3.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "postcss-flexbox": "^1.0.3",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
