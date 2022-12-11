@@ -14,7 +14,7 @@
     "@nuxt/typescript": "^2.8.1",
     "@nuxt/typescript-runtime": "^0.2.4",
     "@nuxtjs/axios": "^5.8.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nuxt": "^2.10.2",
     "nuxt-property-decorator": "^2.5.0",
     "redirect-ssl": "^1.4.1",
